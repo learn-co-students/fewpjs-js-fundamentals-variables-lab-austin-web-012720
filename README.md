@@ -59,7 +59,7 @@ stuff doing?
 **Note:** The `test/indexTest.js` has great info that we want to look at, but do
 not edit this file otherwise you may have extra difficulty passing this lab.
 
-A few lines down in the `test/indexTest.js` file you will see:
+A few lines down in the `test/indexTest.js` file you will see:k
 
 ```js
 describe('index.js', function () {
